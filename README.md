@@ -1,7 +1,7 @@
 # 📄 My Resume - Ariya Rastpour
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ariyarastpour/resume)
-![GitHub repo size](https://img.shields.io/github/repo-size/ariyarastpour/resume)
+![GitHub last commit](https://img.shields.io/github/last-commit/ariyarastpour/Myresume)
+![GitHub repo size](https://img.shields.io/github/repo-size/ariyarastpour/Myresume)
 
 This repository contains my resume as a web page. I'm a 17-year-old Mathematics student passionate about web development with Python and Django.
 
@@ -11,7 +11,7 @@ This repository contains my resume as a web page. I'm a 17-year-old Mathematics 
 
 To view my resume as a beautiful web page, click the link below:
 
-**[👁️ View Resume Online](https://ariyarastpour.github.io/resume/)**
+**[👁️ View Resume Online](https://ariyarastpour.github.io/Myresume/)**
 
 ---
 
@@ -36,9 +36,12 @@ To view my resume as a beautiful web page, click the link below:
 
 ## 📁 Projects
 
-1. **Personal Blog with Django** - Full-featured blog with authentication and admin panel
-2. **Modern Landing Page** - Responsive landing page with TailwindCSS
-3. **Automation Script** - Fetch and process data from API with Python
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **Project2-Movie** | Movie & Series management with Django | [View](https://github.com/ariyarastpour/Project2-Movie) |
+| **Myresume** | Personal resume as a web page | [View](https://github.com/ariyarastpour/Myresume) |
+| **project1** | First project (in progress) | [View](https://github.com/ariyarastpour/project1) |
+| **Project3-store** | Online store with Django | [View](https://github.com/ariyarastpour/Project3-store) |
 
 ---
 
@@ -60,11 +63,10 @@ This project is published under the [MIT License](LICENSE).
 
 ---
 
-
 # 📄 رزومه من - آریا راست‌پور
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ariyarastpour/resume)
-![GitHub repo size](https://img.shields.io/github/repo-size/ariyarastpour/resume)
+![GitHub last commit](https://img.shields.io/github/last-commit/ariyarastpour/Myresume)
+![GitHub repo size](https://img.shields.io/github/repo-size/ariyarastpour/Myresume)
 
 این مخزن شامل رزومه من به صورت یک صفحه وب است. من یک دانش‌آموز ۱۷ ساله رشته ریاضی هستم که به توسعه وب با پایتون و جنگو علاقه‌مندم.
 
@@ -74,7 +76,7 @@ This project is published under the [MIT License](LICENSE).
 
 برای مشاهده رزومه به صورت یک صفحه وب زیبا، روی لینک زیر کلیک کنید:
 
-**[👁️ مشاهده رزومه آنلاین](https://ariyarastpour.github.io/resume/)**
+**[👁️ مشاهده رزومه آنلاین](https://ariyarastpour.github.io/Myresume/)**
 
 ---
 
@@ -99,9 +101,12 @@ This project is published under the [MIT License](LICENSE).
 
 ## 📁 پروژه‌ها
 
-1. **وبلاگ شخصی با جنگو** - وبلاگ کامل با احراز هویت و پنل مدیریت
-2. **صفحه فرود مدرن** - صفحه فرود واکنش‌گرا با TailwindCSS
-3. **اسکریپت خودکارسازی** - دریافت و پردازش داده از API با پایتون
+| پروژه | توضیح | لینک |
+| :--- | :--- | :--- |
+| **Project2-Movie** | مدیریت فیلم و سریال با جنگو | [مشاهده](https://github.com/ariyarastpour/Project2-Movie) |
+| **Myresume** | رزومه شخصی به صورت صفحه وب | [مشاهده](https://github.com/ariyarastpour/Myresume) |
+| **project1** | پروژه اول (در حال تکمیل) | [مشاهده](https://github.com/ariyarastpour/project1) |
+| **Project3-store** | فروشگاه اینترنتی با جنگو | [مشاهده](https://github.com/ariyarastpour/Project3-store) |
 
 ---
 
