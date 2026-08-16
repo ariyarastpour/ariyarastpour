@@ -1,75 +1,76 @@
-# رزومه - آریا راست‌پور
+# Resume - Ariya Rastpour
 
-## اطلاعات تماس
-- **نام و نام خانوادگی:** آریا راست‌پور
-- **شماره تماس:** ۰۹۱۱۹۶۴۶۸۰۰
-- **ایمیل:** rastpourariya@gmail.com
-- **شهر:** اصفهان
-- **گیت‌هاب:** github.com/ariyarastpour
-
----
-
-## خلاصه حرفه‌ای
-دانش‌آموز رشته ریاضی با ۱۷ سال سن و اشتیاق فراوان به توسعه وب. به صورت خودآموخته با زبان پایتون و فریم‌ورک جنگو آشنا شده و چندین پروژه عملی را از صفر تا مرحله نهایی پیاده‌سازی کرده‌ام. به دنبال اولین فرصت کارآموزی در یک تیم حرفه‌ای هستم تا بتوانم مهارت‌های فنی خود را در محیط واقعی پروژه به کار بگیرم و سطح دانش خود را ارتقا دهم.
+## Contact Information
+- **Full Name:** Ariya Rastpour
+- **Phone:** +98 911 964 6800
+- **Email:** rastpourariya@gmail.com
+- **Location:** Isfahan, Iran
+- **GitHub:** github.com/ariyarastpour
 
 ---
 
-## مهارت‌های فنی
-- **زبان‌های برنامه‌نویسی:** پایتون (سطح پیشرفته در حد پروژه)
-- **فریم‌ورک و ابزارهای فرانت‌اند:** جنگو، HTML5، CSS3، TailwindCSS (سطح متوسط در حال یادگیری مستمر)
-- **ابزارها و مهارت‌های تکمیلی:** گیت، گیت‌هاب، داکر (آشنایی با کانتینر و کنترل نسخه)
-- **زبان‌ها:** فارسی (زبان مادری)، انگلیسی (در سطح خواندن و نوشتن مستندات فنی)
+## Professional Summary
+A motivated 17-year-old Mathematics student with a strong passion for web development. Self-taught in Python and Django framework, with several practical projects completed from scratch. Currently seeking an internship opportunity in a professional team to apply technical skills in real-world projects and continue learning in a collaborative environment.
 
 ---
 
-## پروژه‌های عملی
-**۱. وبلاگ شخصی با جنگو**
-- طراحی و پیاده‌سازی یک وبلاگ کامل با قابلیت ثبت، ویرایش و نمایش پست‌ها
-- پیاده‌سازی سیستم احراز هویت امن برای کاربران (ثبت‌نام، ورود و خروج)
-- راه‌اندازی پنل مدیریت برای مدیریت محتوای وبلاگ
-- **فناوری‌ها:** پایتون، جنگو، HTML، CSS
-
-**۲. صفحه فرود مدرن و واکنش‌گرا**
-- طراحی یک صفحه فرود کاملاً واکنش‌گرا با ظاهری مدرن و حرفه‌ای
-- بهینه‌سازی نمایش در تمام دستگاه‌ها (موبایل، تبلت و دسکتاپ)
-- استفاده از رویکرد utility-first برای توسعه سریع‌تر
-- **فناوری‌ها:** HTML5، TailwindCSS
-
-**۳. اسکریپت خودکارسازی با پایتون**
-- توسعه یک اسکریپت برای دریافت و پردازش خودکار داده‌ها از APIهای مختلف
-- پردازش و ذخیره‌سازی داده‌ها در قالب ساختارهای مناسب
-- **فناوری‌ها:** پایتون، کتابخانه Requests
+## Technical Skills
+- **Programming Languages:** Python (Advanced - Project Ready)
+- **Frameworks & Frontend Tools:** Django, HTML5, CSS3, TailwindCSS (Intermediate - Continuously Learning)
+- **DevOps & Tools:** Git, GitHub, Docker (Familiar with Containerization & Version Control)
+- **Languages:** Persian (Native), English (Technical Reading & Writing)
 
 ---
 
-## تحصیلات
-- **دبیرستان شاهد امام خمینی، اصفهان** | رشته ریاضی فیزیک
-- **سال تحصیلی:** ۱۴۰۳ تا ۱۴۰۶ (در حال تحصیل)
-- **دروس مرتبط:** ریاضیات (تقویت منطق برنامه‌نویسی)، فیزیک، زبان انگلیسی (مهارت خواندن مستندات فنی)
+## Practical Projects
+
+**1. Personal Blog with Django**
+- Designed and implemented a full-featured blog with post creation, editing, and display functionality
+- Implemented secure user authentication system (registration, login, logout)
+- Set up admin panel for content management
+- **Technologies:** Python, Django, HTML, CSS
+
+**2. Modern Responsive Landing Page**
+- Designed a fully responsive landing page with a modern and professional appearance
+- Optimized display across all devices (mobile, tablet, desktop)
+- Used utility-first approach for faster development
+- **Technologies:** HTML5, TailwindCSS
+
+**3. Python Automation Script**
+- Developed a script to automatically fetch and process data from various APIs
+- Processed and stored data in appropriate structures
+- **Technologies:** Python, Requests Library
 
 ---
 
-## دوره‌های تخصصی
-- **دوره مقدماتی جنگو** – مکتب‌خونه (دریافت گواهی در ۲ روز آینده)
-- **دوره پیشرفته جنگو** – مکتب‌خونه (در حال تکمیل)
+## Education
+- **Shahid Imam Khomeini High School, Isfahan** | Mathematics & Physics
+- **Academic Year:** 2024 – 2027 (Current Student)
+- **Relevant Coursework:** Mathematics (Strengthening programming logic), Physics, English (Technical documentation reading skills)
 
 ---
 
-## ویژگی‌های شخصی
-- **یادگیرنده خودانگیخته:** توانایی یادگیری مفاهیم جدید از طریق مستندات و ویدئوهای آموزشی
-- **مسئولیت‌پذیر و متعهد:** پایبندی به ددلاین‌ها و تحویل به‌موقع پروژه‌ها
-- **کار تیمی:** علاقه‌مند به کار در گروه و استفاده از گیت‌هاب برای همکاری
-- **حل‌کننده مسئله:** رویکرد منطقی برای رفع باگ‌ها و چالش‌های کدنویسی
-- **روحیه پرسشگری:** کنجکاو برای درک عمیق مفاهیم و فناوری‌های جدید
+## Specialized Courses
+- **Django Beginner Course** – Maktabkhooneh (Certificate to be received in 2 days)
+- **Django Advanced Course** – Maktabkhooneh (Currently completing)
 
 ---
 
-## دستاوردها و فعالیت‌ها
-- تکمیل ۳ پروژه عملی و انتشار آنها در گیت‌هاب
-- گذراندن دوره‌های تخصصی جنگو در مکتب‌خونه
-- آشنایی با مفاهیم کنترل نسخه و همکاری تیمی از طریق گیت و گیت‌هاب
-- آشنایی مقدماتی با داکر برای راه‌اندازی محیط‌های توسعه
+## Personal Attributes
+- **Self-Motivated Learner:** Ability to learn new concepts through documentation and video tutorials
+- **Responsible & Committed:** Adherence to deadlines and timely project delivery
+- **Team Player:** Enjoys collaborative work and uses GitHub for cooperation
+- **Problem Solver:** Logical approach to debugging and coding challenges
+- **Curious Mindset:** Eager to deeply understand concepts and new technologies
 
 ---
 
-**در دسترس برای کارآموزی:** از تابستان ۱۴۰۵
+## Achievements & Activities
+- Completed and published 3 practical projects on GitHub
+- Completed specialized Django courses at Maktabkhooneh
+- Familiar with version control and team collaboration through Git and GitHub
+- Basic familiarity with Docker for development environment setup
+
+---
+
+**Available for Internship:** Summer 2026
