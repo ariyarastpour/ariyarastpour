@@ -11,7 +11,7 @@ This repository contains my resume as a web page. I'm a 17-year-old Mathematics 
 
 To view my resume as a beautiful web page, click the link below:
 
-**[👁️ View Resume Online](https://ariyarastpour.github.io/Myresume/)**
+**[👁️ View Resume Online](https://ariyarastpour.github.io/)**
 
 ---
 
@@ -26,22 +26,22 @@ To view my resume as a beautiful web page, click the link below:
 
 ## 🛠️ Skills
 
-| Category | Skills |
-| :--- | :--- |
-| **Programming Languages** | Python |
-| **Frameworks & Tools** | Django, HTML5, CSS3, TailwindCSS |
-| **Additional Tools** | Git, GitHub, Docker |
+| Category                  | Skills                           |
+| :------------------------ | :------------------------------- |
+| **Programming Languages** | Python                           |
+| **Frameworks & Tools**    | Django, HTML5, CSS3, TailwindCSS |
+| **Additional Tools**      | Git, GitHub, Docker              |
 
 ---
 
 ## 📁 Projects
 
-| Project | Description | Link |
-| :--- | :--- | :--- |
+| Project            | Description                           | Link                                                    |
+| :----------------- | :------------------------------------ | :------------------------------------------------------ |
 | **Project2-Movie** | Movie & Series management with Django | [View](https://github.com/ariyarastpour/Project2-Movie) |
-| **Myresume** | Personal resume as a web page | [View](https://github.com/ariyarastpour/Myresume) |
-| **project1** | First project (in progress) | [View](https://github.com/ariyarastpour/project1) |
-| **Project3-store** | Online store with Django | [View](https://github.com/ariyarastpour/Project3-store) |
+| **Myresume**       | Personal resume as a web page         | [View](https://github.com/ariyarastpour/Myresume)       |
+| **project1**       | First project (in progress)           | [View](https://github.com/ariyarastpour/project1)       |
+| **Project3-store** | Online store with Django              | [View](https://github.com/ariyarastpour/Project3-store) |
 
 ---
 
@@ -59,7 +59,6 @@ This project is published under the [MIT License](LICENSE).
 ---
 
 **Made with ❤️ by Ariya Rastpour**
-
 
 ---
 
@@ -91,22 +90,22 @@ This project is published under the [MIT License](LICENSE).
 
 ## 🛠️ مهارت‌ها
 
-| دسته‌بندی | مهارت‌ها |
-| :--- | :--- |
-| **زبان‌های برنامه‌نویسی** | Python |
-| **فریم‌ورک و ابزارها** | Django, HTML5, CSS3, TailwindCSS |
-| **ابزارهای تکمیلی** | Git, GitHub, Docker |
+| دسته‌بندی                 | مهارت‌ها                         |
+| :------------------------ | :------------------------------- |
+| **زبان‌های برنامه‌نویسی** | Python                           |
+| **فریم‌ورک و ابزارها**    | Django, HTML5, CSS3, TailwindCSS |
+| **ابزارهای تکمیلی**       | Git, GitHub, Docker              |
 
 ---
 
 ## 📁 پروژه‌ها
 
-| پروژه | توضیح | لینک |
-| :--- | :--- | :--- |
+| پروژه              | توضیح                       | لینک                                                      |
+| :----------------- | :-------------------------- | :-------------------------------------------------------- |
 | **Project2-Movie** | مدیریت فیلم و سریال با جنگو | [مشاهده](https://github.com/ariyarastpour/Project2-Movie) |
-| **Myresume** | رزومه شخصی به صورت صفحه وب | [مشاهده](https://github.com/ariyarastpour/Myresume) |
-| **project1** | پروژه اول (در حال تکمیل) | [مشاهده](https://github.com/ariyarastpour/project1) |
-| **Project3-store** | فروشگاه اینترنتی با جنگو | [مشاهده](https://github.com/ariyarastpour/Project3-store) |
+| **Myresume**       | رزومه شخصی به صورت صفحه وب  | [مشاهده](https://github.com/ariyarastpour/Myresume)       |
+| **project1**       | پروژه اول (در حال تکمیل)    | [مشاهده](https://github.com/ariyarastpour/project1)       |
+| **Project3-store** | فروشگاه اینترنتی با جنگو    | [مشاهده](https://github.com/ariyarastpour/Project3-store) |
 
 ---
 
