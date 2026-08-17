@@ -75,7 +75,7 @@ This project is published under the [MIT License](LICENSE).
 
 برای مشاهده رزومه به صورت یک صفحه وب زیبا، روی لینک زیر کلیک کنید:
 
-**[👁️ مشاهده رزومه آنلاین](https://ariyarastpour.github.io/Myresume/)**
+**[👁️ مشاهده رزومه آنلاین](https://ariyarastpour.github.io/)**
 
 ---
 
