@@ -103,7 +103,7 @@ This project is published under the [MIT License](LICENSE).
 | پروژه              | توضیح                       | لینک                                                      |
 | :----------------- | :-------------------------- | :-------------------------------------------------------- |
 | **Project2-Movie** | مدیریت فیلم و سریال با جنگو | [مشاهده](https://github.com/ariyarastpour/Project2-Movie) |
-| **Myresume**       | رزومه شخصی به صورت صفحه وب  | [مشاهده](https://github.com/ariyarastpour/Myresume)       |
+| **Myresume**       | رزومه شخصی به صورت صفحه وب  | [مشاهده](https://github.com/ariyarastpour/)       |
 | **project1**       | پروژه اول (در حال تکمیل)    | [مشاهده](https://github.com/ariyarastpour/project1)       |
 | **Project3-store** | فروشگاه اینترنتی با جنگو    | [مشاهده](https://github.com/ariyarastpour/Project3-store) |
 
